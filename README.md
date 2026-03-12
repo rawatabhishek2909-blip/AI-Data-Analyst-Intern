@@ -161,6 +161,14 @@ Aspiring **Data Analyst** interested in building AI-powered data tools and analy
 
 ---
 
+## 🌐 Live Application
+
+Try the live application here:
+
+https://ai-data-analyst-intern.streamlit.app/
+
+----
+
 # ⭐ If you like this project
 
 Consider giving it a **star ⭐ on GitHub**.
